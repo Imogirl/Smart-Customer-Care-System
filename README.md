@@ -1,375 +1,358 @@
 <div align="center">
 
-# 🎯 Smart Customer Care System
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Smart%20Customer%20Care&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🌈✨ Modern Java MVC Helpdesk Platform
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" />
+  Modern Java MVC Helpdesk Platform
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" />
+</h3>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<!-- Tech Stack Badges with Gradient Effect -->
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black&labelColor=D1A344" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap" />
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/smart-customer-care/graphs/commit-activity)
+<!-- Status Badges with Icons -->
+<p>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-00b4d8?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+  </a>
+  <img src="https://img.shields.io/badge/PRs-Welcome-06ffa5?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-f72585?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Status-Active-4cc9f0?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+</p>
 
-*A powerful, animated, and user-friendly ticket management system built with Servlet + JSP + MySQL*
+<!-- Description with Icons -->
+<h4>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" />
+  A powerful, animated, and user-friendly ticket management system
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" />
+</h4>
 
-[🚀 Demo](#-demo) • [✨ Features](#-features) • [📦 Installation](#-installation-guide) • [🤝 Contributing](#-contributing)
+<!-- Quick Navigation -->
+<p>
+  <a href="#-preview">
+    <img src="https://img.shields.io/badge/🎬_DEMO-4361ee?style=for-the-badge" />
+  </a>
+  <a href="#-features">
+    <img src="https://img.shields.io/badge/✨_FEATURES-f72585?style=for-the-badge" />
+  </a>
+  <a href="#-installation-guide">
+    <img src="https://img.shields.io/badge/📦_INSTALL-06ffa5?style=for-the-badge" />
+  </a>
+  <a href="#-contributing">
+    <img src="https://img.shields.io/badge/🤝_CONTRIBUTE-4cc9f0?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
-## 🎬 Preview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="35" /> Preview
 
 <div align="center">
 
-> 📌 **Add Your Dashboard GIF Here**
-> 
-> *Showcase your beautiful animated UI with a demo GIF*
+<!-- Preview Placeholder with Gradient Border -->
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br/>
+<b>🎨 Add Your Dashboard GIF/Screenshot Here</b>
+    <img src =
+<br/>
+<i>Showcase your beautiful animated UI</i>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
-## 📖 About The Project
 
-Smart Customer Care System is a comprehensive helpdesk solution that streamlines customer support operations. Built with Java MVC architecture, it provides role-based dashboards for customers, support teams, managers, and administrators.
-
-### 💡 Why This Project?
-
-- ✅ **Modern UI/UX** - Gradient designs, smooth animations, and responsive layouts
-- ✅ **Role-Based Access** - Secure authentication and authorization
-- ✅ **Scalable Architecture** - Clean MVC pattern with separation of concerns
-- ✅ **Production Ready** - Robust error handling and database optimization
 
 ---
 
-## ✨ Features
+
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="35" /> Future Enhancements
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 👤 Customer Portal
-- 📝 Raise support tickets with categories
-- 🔍 Real-time ticket status tracking
-- 📜 Complete ticket history
-- 📊 Personal dashboard with analytics
-- 🔔 Notification system
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25" /> Planned Features
 
-</td>
-<td width="50%">
+<br/>
 
-### 🛠️ Technical Support
-- 📥 View assigned tickets queue
-- 🔧 Update ticket progress (Open → Working → Resolved)
-- 📝 Add internal notes and comments
-- ⏱️ Track response times
-- 📈 Performance metrics
+| Feature | Status |
+|---------|--------|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" width="20" /> Email & SMS Notifications | 🟡 In Progress |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="20" /> Real-time Chat Support | 🔵 Planned |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20" /> Advanced Analytics | 🔵 Planned |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> AI Ticket Categorization | 🟣 Research |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" width="20" /> Automated Routing | 🟣 Research |
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧑‍💼 Manager Dashboard
-- 👥 Account management system
-- 📊 Advanced ticket insights & reports
-- ✅ Approve/Reject ticket operations
-- 📉 Team performance analytics
-- 🎯 Resource allocation tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> Improvements
 
-</td>
-<td width="50%">
+<br/>
 
-### 🛡️ Admin Control Panel
-- 📢 System-wide announcements
-- 🔑 Role & permission management
-- ⚙️ System configuration settings
-- 📦 Database backup & restore
-- 🔐 Security audit logs
+| Feature | Status |
+|---------|--------|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" width="20" /> Dark Mode | 🟡 In Progress |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> Progressive Web App | 🔵 Planned |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> Two-Factor Auth | 🔵 Planned |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" width="20" /> File Attachments | 🟡 In Progress |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" /> Multi-language | 🟣 Research |
 
 </td>
 </tr>
 </table>
 
----
+**Legend:**
+🟢 Completed | 🟡 In Progress | 🔵 Planned | 🟣 Research Phase | 🔴 On Hold
 
-## 🎨 UI Highlights
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| 🌈 **Gradient Headers** | Eye-catching gradient backgrounds with smooth transitions |
-| ✨ **Smooth Animations** | CSS3 animations for buttons, cards, and transitions |
-| 🔄 **Hover Effects** | Interactive hover states for better UX |
-| 📱 **Responsive Design** | Mobile-first approach with Bootstrap 5 |
-| 💬 **Clean Interface** | Modern card layouts and organized information |
-| 🎭 **Dark Mode Ready** | Prepared for dark theme implementation |
-
-</div>
-
-> 💡 **Pro Tip**: Add screenshots of your dashboards here to showcase your beautiful UI!
-
----
-
-## 🏗️ Project Architecture
-
-### MVC Pattern Implementation
-
-```
-smart-customer-care/
-│
-├── src/
-│   ├── controller/              # Servlet Controllers
-│   │   ├── CustomerController.java
-│   │   ├── TicketController.java
-│   │   ├── AdminController.java
-│   │   └── ManagerController.java
-│   │
-│   ├── model/                   # Business Logic & POJOs
-│   │   ├── User.java
-│   │   ├── Ticket.java
-│   │   ├── Category.java
-│   │   └── Announcement.java
-│   │
-│   ├── dao/                     # Data Access Layer
-│   │   ├── UserDAO.java
-│   │   ├── TicketDAO.java
-│   │   └── AnnouncementDAO.java
-│   │
-│   └── util/                    # Helper Utilities
-│       ├── DBConnection.java
-│       ├── PasswordUtil.java
-│       └── ValidationUtil.java
-│
-├── webapp/
-│   ├── views/                   # JSP Pages
-│   │   ├── customer/
-│   │   ├── support/
-│   │   ├── manager/
-│   │   └── admin/
-│   │
-│   ├── assets/                  # Static Resources
-│   │   ├── css/
-│   │   ├── js/
-│   │   └── images/
-│   │
-│   └── WEB-INF/
-│       ├── web.xml
-│       └── lib/
-│
-└── database/
-    └── smartcare.sql            # Database Schema
-```
-
-### 🔄 Request Flow
-
-```mermaid
-graph LR
-    A[User Browser] -->|HTTP Request| B[Servlet Controller]
-    B -->|Process| C[Service Layer]
-    C -->|Query| D[DAO Layer]
-    D -->|JDBC| E[(MySQL Database)]
-    E -->|Result| D
-    D -->|Data| C
-    C -->|Model| B
-    B -->|Forward| F[JSP View]
-    F -->|HTML Response| A
-    
-    style A fill:#e1f5ff
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#e8f5e9
-    style E fill:#ffebee
-    style F fill:#fff9c4
-```
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-| Layer | Technology | Badge |
-|-------|-----------|--------|
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | Java Servlets, JSP, JDBC | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Database** | MySQL 8.0+ | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| **Server** | Apache Tomcat 9.0+ | ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black) |
-| **Build Tool** | Maven / Manual | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) |
-| **Version Control** | Git & GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
-## 📦 Installation Guide
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> Contributing
 
-### Prerequisites
+<div align="center">
 
-- ☕ Java JDK 8 or higher
-- 🗄️ MySQL Server 8.0+
-- 🚀 Apache Tomcat 9.0+
-- 🛠️ IDE (IntelliJ IDEA / Eclipse / NetBeans)
-- 📦 Maven (optional)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="25" />
+**Contributions make the open-source community amazing!**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="25" />
 
-### Step-by-Step Setup
-
-#### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/smart-customer-care.git
-cd smart-customer-care
-```
-
-#### 2️⃣ Import Project
-
-**For IntelliJ IDEA:**
-```
-File → Open → Select project folder → Import as Dynamic Web Project
-```
-
-**For Eclipse:**
-```
-File → Import → Existing Projects into Workspace → Select root directory
-```
-
-#### 3️⃣ Setup Database
-
-```sql
--- Create database
-CREATE DATABASE smartcare CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
--- Use the database
-USE smartcare;
-
--- Import the SQL file
-SOURCE path/to/smartcare.sql;
-
--- Verify tables
-SHOW TABLES;
-```
-
-#### 4️⃣ Configure Database Connection
-
-Edit `src/util/DBConnection.java`:
-
-```java
-private static final String URL = "jdbc:mysql://localhost:3306/smartcare";
-private static final String USERNAME = "your_mysql_username";
-private static final String PASSWORD = "your_mysql_password";
-```
-
-#### 5️⃣ Configure Tomcat Server
-
-1. Add Tomcat server in your IDE
-2. Deploy the project to Tomcat
-3. Set context path: `/smartcare`
-
-#### 6️⃣ Run the Application
-
-```bash
-# Start Tomcat server
-# Then open browser and navigate to:
-http://localhost:8080/smartcare
-```
-
-### 🎉 Default Login Credentials
-
-| Role | Username | Password |
-|------|----------|----------|
-| Admin | admin | admin123 |
-| Manager | manager | manager123 |
-| Support | support | support123 |
-| Customer | customer | customer123 |
-
-> ⚠️ **Important**: Change these credentials after first login!
-
----
-
-
-<td width="50%">
-
-### 🚀 Improvements
-- 🌙 Dark mode implementation
-- 📱 Progressive Web App (PWA)
-- 🔐 Two-factor authentication
-- 📁 File attachment support
-- 🌍 Multi-language support
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Contributing
-
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
+<br/>
 
 ### How to Contribute
 
-1. 🍴 Fork the Project
-2. 🌿 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. ✍️ Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the Branch (`git push origin feature/AmazingFeature`)
-5. 🎉 Open a Pull Request
+</div>
 
-### Contribution Guidelines
-
-- Follow clean code principles
-- Write meaningful commit messages
-- Add comments for complex logic
-- Update documentation for new features
-- Test thoroughly before submitting PR
-
----
-
-
----
-
-## 👨‍💻 Author
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" width="50" />
+<br/>
+<b>1. Fork</b>
+<br/>
+Fork the Project
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="50" />
+<br/>
+<b>2. Branch</b>
+<br/>
+Create Feature Branch
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="50" />
+<br/>
+<b>3. Commit</b>
+<br/>
+Commit Changes
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Outbox%20Tray.png" width="50" />
+<br/>
+<b>4. Push</b>
+<br/>
+Push to Branch
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Party%20Popper.png" width="50" />
+<br/>
+<b>5. PR</b>
+<br/>
+Open Pull Request
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### **Your Name**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="25" /> Contribution Guidelines
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+</div>
 
-*Full Stack Developer | Java Enthusiast | Open Source Contributor*
+```bash
+# Clone your fork
+git clone https://github.com/yourusername/smart-customer-care.git
+
+# Create feature branch
+git checkout -b feature/AmazingFeature
+
+# Commit your changes
+git commit -m '✨ Add some AmazingFeature'
+
+# Push to branch
+git push origin feature/AmazingFeature
+```
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30" />
+<br/>
+<b>Clean Code</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30" />
+<br/>
+<b>Meaningful Commits</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30" />
+<br/>
+<b>Code Comments</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30" />
+<br/>
+<b>Update Docs</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30" />
+<br/>
+<b>Test Thoroughly</b>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> Author
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Java+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+### **Your Name**
+
+<br/>
+
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f093fb" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4facfe" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=4facfe&currStreakLabel=c9d1d9" width="48%" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
-## 📞 Support
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35" /> Support
 
-Having issues? We're here to help!
+<div align="center">
 
-- 📧 Email: support@smartcare.com
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/smart-customer-care/discussions)
-- 🐛 Bug Reports: [Issue Tracker](https://github.com/yourusername/smart-customer-care/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/smart-customer-care/wiki)
+**Having issues? We're here to help!** 💙
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="60" />
+<br/><br/>
+<b>Email Support</b>
+<br/>
+<a href="mailto:support@smartcare.com">support@smartcare.com</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="60" />
+<br/><br/>
+<b>Discussions</b>
+<br/>
+<a href="https://github.com/yourusername/smart-customer-care/discussions">GitHub Discussions</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="60" />
+<br/><br/>
+<b>Bug Reports</b>
+<br/>
+<a href="https://github.com/yourusername/smart-customer-care/issues">Issue Tracker</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" />
+<br/><br/>
+<b>Documentation</b>
+<br/>
+<a href="https://github.com/yourusername/smart-customer-care/wiki">Wiki</a>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 If you find this project helpful, please give it a star!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25" />
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+### If you find this project helpful, please give it a ⭐!
 
-**Happy Coding!** 🚀
+<br/>
+
+**Made with** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="15" /> **by** [Your Name](https://github.com/yourusername)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=435&lines=Happy+Coding!+%F0%9F%9A%80;Star+This+Repo!+%E2%AD%90;Contribute+Today!+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
