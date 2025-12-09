@@ -68,7 +68,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br/>
 <b>🎨 Add Your Dashboard GIF/Screenshot Here</b>
-    <img src =
+    <img src = "https://github.com/Imogirl/Smart-Customer-Care-System/blob/main/Manage%20Announcement.png">
 <br/>
 <i>Showcase your beautiful animated UI</i>
 </td>
@@ -78,14 +78,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
----
-
-
-
----
-
-
 
 ---
 
@@ -257,20 +249,20 @@ git push origin feature/AmazingFeature
 
 <br/>
 
-### **Your Name**
+### **Imasha Dulshini**
 
 <br/>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/imogirl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/imasha-dulshini">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:imashadulxsini1@gmaail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f093fb" />
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://imasha-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4facfe" />
 </a>
 
