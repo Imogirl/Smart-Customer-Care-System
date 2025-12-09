@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #2c3e50, #4ca1af); 
+    color: #f0f0f0;
+    min-height: 100vh;
+}
+
+/* Dashboard Container */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+header {
+    background-color: #102542;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+header h1 {
+    color: #fff;
+    font-size: 28px;
+}
+
+
+
+/* Main content */
+main {
+    margin-left: 50px;
+    padding: 30px;
+}
+
+/* Section Titles */
+section h2 {
+    margin-bottom: 20px;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff22;
+    padding-bottom: 5px;
+}
+
+/* Form Styling */
+.faq-form form {
+    background-color: #142b4d;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.faq-form input[type="text"],
+.faq-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #e0e0e0;
+    color: #000;
+    font-size: 14px;
+}
+
+.faq-form button {
+    background-color: #1e90ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.faq-form button:hover {
+    background-color: #0b76d1;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+table thead {
+    background-color: #1e3c72;
+    color: #fff;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table tbody tr:hover {
+    background-color: #e3f2fd;
+}
+
+/* Action Links */
+a {
+    text-decoration: none;
+    padding: 6px 12px;
+    margin-right: 5px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+}
+
+a[href*="updatefaq"] {
+    background-color: #ffc107;
+    color: #000;
+}
+
+a[href*="updatefaq"]:hover {
+    background-color: #e0a800;
+}
+
+a[href*="deletefaq"] {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+a[href*="deletefaq"]:hover {
+    background-color: #c82333;
+}
+
+a[href*="replyticket"] {
+    background-color: #ffc107;
+    color: #000;
+}
+
+a[href*="replyticket"]:hover {
+    background-color: #e0a800;
+}
+
+
+@media screen and (max-width: 768px) {
+    .sidebar {
+        position: relative;
+        width: 100%;
+        height: auto;
+    }
+
+    main {
+        margin-left: 0;
+    }
+}

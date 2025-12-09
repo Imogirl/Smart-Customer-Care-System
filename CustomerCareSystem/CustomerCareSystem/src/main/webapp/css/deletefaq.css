@@ -1,0 +1,90 @@
+@charset "UTF-8"; 
+
+/* Body styling */
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;  
+    justify-content: center; 
+    align-items: center;    
+}
+
+/* Center-aligns all content inside the container */
+.container {
+    text-align: center;
+}
+
+/* Design the card */
+.card {
+    background-color: #fff0f0; 
+    padding: 30px 40px;
+    border-radius: 20px; 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); 
+    max-width: 400px; 
+}
+
+/* Style for the warning message */
+.warning {
+    color: #d00000; 
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* General paragraph text inside the card */
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+/* Button container  */
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+/* Common button styling */
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease; 
+}
+
+/* Confirm button styling  */
+.confirm {
+    background-color: #e60000; 
+    color: white;
+}
+
+.confirm:hover {
+    background-color: #cc0000; 
+}
+
+/* Styling for anchor tags with button appearance */
+a.btn {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+/* Cancel button styling */
+a.cancel {
+    background-color: #0088cc; 
+    color: white;
+}
+
+
+a.cancel:hover {
+    background-color: #006699; 
+}

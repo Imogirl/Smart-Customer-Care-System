@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+isErrorGoToNextNavigationTarget=false
+isInfoGoToNextNavigationTarget=false
+isWarningGoToNextNavigationTarget=false
+org.eclipse.lsp4e.read.isGoToNextNavigationTarget=false
+org.eclipse.lsp4e.text.isGoToNextNavigationTarget=false
+org.eclipse.lsp4e.write.isGoToNextNavigationTarget=false

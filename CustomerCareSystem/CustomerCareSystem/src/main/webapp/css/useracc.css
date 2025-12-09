@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+body {
+   margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    background: linear-gradient(to bottom right, #243b55, #141e30);
+    color: #f4f4f4;
+}
+
+.profile-container {
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    padding: 40px;
+}
+
+.profile-container:hover {
+    transform: scale(1.05);
+}
+
+.profile-card {
+    background: linear-gradient(145deg, #3498db, #2c80b4);
+    display: flex;
+    flex-direction: row;
+    border-radius: 18px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.profile-card:hover {
+    transform: scale(1.03);
+}
+
+.profile-image {
+    flex: 1;
+    background: #f3f6f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.profile-image img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 6px solid #fff;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.profile-image img:hover {
+    transform: scale(1.15);
+}
+
+.profile-info {
+    flex: 2;
+    padding: 40px;
+    text-align: left;
+}
+
+.profile-info h2 {
+    margin-top: 0;
+    font-size: 36px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.bio {
+    font-size: 18px;
+    color: #fff;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.info-list p {
+    font-size: 16px;
+    margin: 8px 0;
+    color: #fff;
+}
+
+.info-list span {
+    font-weight: bold;
+    color: #fff;
+}
+
+.actions {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #fff;
+    color: #3498db;
+    padding: 14px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background-color 0.3s, transform 0.2s ease;
+    border: 2px solid #3498db;
+}
+
+.btn:hover {
+    background-color: #3498db;
+    color: white;
+    transform: translateY(-2px);
+}
+
+.btn.logout {
+    background-color: #e74c3c;
+    color: white;
+    border: 2px solid #e74c3c;
+}
+
+.btn.logout:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+}
+
+.footer {
+    margin-top: 30px;
+    color: #fff;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #ddd;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+F:\SLIIT 2nd year 1st sem\OOP - IT2030\CustomerCareSystem\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+536682752.index
+762323411.index
+2266242371.index
+1746330790.index
+3219844962.index
+3934132718.index

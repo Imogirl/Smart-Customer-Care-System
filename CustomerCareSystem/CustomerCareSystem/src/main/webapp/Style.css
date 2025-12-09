@@ -1,0 +1,198 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f6fa;
+}
+
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+}
+
+
+
+.sidebar {
+  background-color: #1f1f2e;
+  color: #fff;
+  width: 240px;
+  padding: 2rem 1rem;
+}
+
+
+.sidebar h2 {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  color: white;
+
+
+}
+
+.sidebar ul {
+  list-style: none;
+  margin-top: 30px;
+}
+
+.sidebar ul li {
+  margin: 1rem 0;
+
+}
+
+.sidebar ul li a {
+      display: block;
+      color: #cfd3e3;
+      text-decoration: none;
+      margin: 15px 0;
+      padding:  0.5rem 1rem;
+      border-radius: 8px;
+      transition: 0.3s;
+      font-size: 1.2rem;
+
+
+}
+
+.sidebar ul li a:hover {
+  background-color: #2e2e42;
+}
+
+
+
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+   
+}
+
+
+.header h1{
+  color:darkgrey;
+  font-size: 0px;
+}
+
+
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+
+}
+
+
+
+.header input {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+  font-size: 1.1rem;
+  transition: transform 0.2s ease;
+  min-height: 140px;
+  margin: 20px;
+  
+}
+
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-icon {
+  font-size: 2.5rem;
+
+}
+
+
+.card-info h3 {
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.card-info p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.card.sales {
+  border-left: 10px solid #4caf50;
+}
+
+.card.projects {
+  border-left: 10px solid #2196f3;
+}
+
+.card.employees {
+  border-left: 10px solid #ff9800;
+}
+
+.card.reports {
+  border-left: 10px solid #9c27b0;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  
+}
+
+/* ---------- pie‑chart area ------------- */
+.main-chart {
+  flex: 1;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* 👈 change this from center */
+}
+
+.chart-title {
+  margin: 0.5rem 0 0.75rem 0; /* reduced top and bottom margin */
+  color: #333;
+  font-size: 1.4rem;
+  margin-top: 0px;
+  margin-bottom: 0.5rem;
+}
+
+
+#pieChart {
+  width: 500px !important;
+  height: 500px !important;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+

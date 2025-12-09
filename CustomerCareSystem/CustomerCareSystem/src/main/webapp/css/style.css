@@ -1,0 +1,97 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f4f8;
+}
+
+.profile-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.profile-card {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.profile-card:hover {
+    transform: scale(1.02);
+}
+
+.profile-image {
+    flex: 1;
+    background: #f7f7f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #3498db;
+}
+
+.profile-info {
+    flex: 2;
+    padding: 30px;
+}
+
+.profile-info h2 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #333;
+}
+
+.bio {
+    color: #555;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.info-list p {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.info-list span {
+    font-weight: bold;
+    color: #222;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #2c80b4;
+}
+
+.btn.logout {
+    background-color: #e74c3c;
+}
+
+.btn.logout:hover {
+    background-color: #c0392b;
+}

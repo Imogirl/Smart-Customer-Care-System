@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+/* ---------- Font Import ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap');
+
+/* ---------- Base Style ---------- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    background: linear-gradient(135deg, #2c3e50, #4ca1af);
+    min-height: 100vh;
+    color: #fefefe;
+    
+}
+
+/* ---------- Container ---------- */
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    background: linear-gradient(135deg, #2c82c9, #008fa3);
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    margin: 100px auto;
+}
+
+
+/* ---------- Heading ---------- */
+.container h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+/* ---------- Form Elements ---------- */
+form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    color: white;
+}
+
+form input[type="text"],
+form textarea {
+    width: 98%;
+    padding: 12px 14px;
+    margin-bottom: 20px;
+    background: #ffffff;
+    border: 1px solid #d0e8ff;
+    border-radius: 12px;
+    color: #333333;
+    font-size: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: 0.3s ease-in-out;
+}
+
+form input[type="text"]:focus,
+form textarea:focus {
+    border-color: #00bcd4;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 188, 212, 0.3);
+}
+
+/* ---------- Submit Button ---------- */
+.update-btn {
+    background: linear-gradient(to right, #3498db, #2ecc71);
+    color: white;
+    padding: 14px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 100%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: all 0.3s ease-in-out;
+}
+
+.update-btn:hover {
+    background: linear-gradient(to right, #2ecc71, #3498db);
+    transform: scale(1.04);
+    box-shadow: 0 0 12px #00c6ff;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+    .container {
+        padding: 30px 20px;
+    }
+
+    .container h2 {
+        font-size: 22px;
+    }
+}

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+ 
+
+         <servlet>
+         
+         <servlet-name>signin</servlet-name>
+         <servlet-class>adminacc.adminsignin</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>signin</servlet-name>
+         <url-pattern>/signin</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>announcementinsert</servlet-name>
+         <servlet-class>adminacc.announcementinsert</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>announcementinsert</servlet-name>
+         <url-pattern>/insert</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+          
+          
+          
+         <servlet>
+         
+         <servlet-name>announcementdisplay</servlet-name>
+         <servlet-class>adminacc.AnnouncementDisplayServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>announcementdisplay</servlet-name>
+         <url-pattern>/aDisplayServlet</url-pattern>
+         
+         </servlet-mapping>
+
+
+
+
+         
+         <servlet>
+         
+         <servlet-name>announcementupdate</servlet-name>
+         <servlet-class>adminacc.UpdateAnnouncementServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>announcementupdate</servlet-name>
+         <url-pattern>/UpdateAnnouncement</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>announcementdelete</servlet-name>
+         <servlet-class>adminacc.DeleteAnnouncementServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>announcementdelete</servlet-name>
+         <url-pattern>/DeleteAnnouncement</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         <servlet>
+
+		<servlet-name>register</servlet-name>
+		<servlet-class>studentacc.RegisterServlet</servlet-class>
+
+		</servlet>
+
+		<servlet-mapping>
+
+		<servlet-name>register</servlet-name>
+		<url-pattern>/register</url-pattern>
+
+		</servlet-mapping>
+		
+		
+		
+		 <servlet>
+         
+         <servlet-name>studentdisplay</servlet-name>
+         <servlet-class>studentacc.StudentDisplayServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>studentdisplay</servlet-name>
+         <url-pattern>/sDisplayServlet</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>insertticket</servlet-name>
+         <servlet-class>studentacc.InsertTicketServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>insertticket</servlet-name>
+         <url-pattern>/ticketinsert</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>adminupdate</servlet-name>
+         <servlet-class>adminacc.UpdateAdminServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>adminupdate</servlet-name>
+         <url-pattern>/adminupdate</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>logout</servlet-name>
+         <servlet-class>adminacc.LogoutServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>logout</servlet-name>
+         <url-pattern>/logout</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>alluser</servlet-name>
+         <servlet-class>adminacc.AllUserDisplayServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>alluser</servlet-name>
+         <url-pattern>/alluser</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>allticket</servlet-name>
+         <servlet-class>studentacc.ViewTicketServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>allticket</servlet-name>
+         <url-pattern>/allticket</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>updateticket</servlet-name>
+         <servlet-class>studentacc.UpdateTicketServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>updateticket</servlet-name>
+         <url-pattern>/updateticket</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>deleteticket</servlet-name>
+         <servlet-class>studentacc.DeleteTicketServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>deleteticket</servlet-name>
+         <url-pattern>/deleteticket</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>deleteuser</servlet-name>
+         <servlet-class>studentacc.DeleteUserServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>deleteuser</servlet-name>
+         <url-pattern>/deleteuser</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>updateuser</servlet-name>
+         <servlet-class>studentacc.UserUpdateServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>updateuser</servlet-name>
+         <url-pattern>/updateuser</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+         
+         
+         
+         <servlet>
+         
+         <servlet-name>userlogout</servlet-name>
+         <servlet-class>studentacc.StudentLogoutServlet</servlet-class>
+         
+         </servlet>
+         
+         <servlet-mapping>
+         
+         <servlet-name>userlogout</servlet-name>
+         <url-pattern>/userlogout</url-pattern>
+         
+         </servlet-mapping>
+         
+         
+    
+    
+     <servlet>
+        <servlet-name>insertfaqs</servlet-name>
+        <servlet-class>techacc.InsertFaqsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>insertfaqs</servlet-name>
+        <url-pattern>/insertfaqs</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>getfaqs</servlet-name>
+        <servlet-class>techacc.ViewFaqsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getfaqs</servlet-name>
+        <url-pattern>/getfaqs</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    <servlet>
+        <servlet-name>updatefaqs</servlet-name>
+        <servlet-class>techacc.UpdateFaqServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updatefaqs</servlet-name>
+        <url-pattern>/updatefaqs</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+     <servlet>
+        <servlet-name>deletefaqs</servlet-name>
+        <servlet-class>techacc.DeleteFaqServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>deletefaqs</servlet-name>
+        <url-pattern>/deletefaqs</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <servlet>
+        <servlet-name>updatetech</servlet-name>
+        <servlet-class>techacc.UpdateTechServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updatetech</servlet-name>
+        <url-pattern>/updatetech</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    <servlet>
+        <servlet-name>replyticket</servlet-name>
+        <servlet-class>techacc.ReplyTicketServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>replyticket</servlet-name>
+        <url-pattern>/replyticket</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    
+    <servlet>
+        <servlet-name>techlogout</servlet-name>
+        <servlet-class>techacc.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>techlogout</servlet-name>
+        <url-pattern>/techlogout</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    <servlet>
+   <servlet-name>insert</servlet-name>
+   <servlet-class>manageracc.Admininsert</servlet-class>
+</servlet>
+<servlet-mapping>
+   <servlet-name>insert</servlet-name>
+   <url-pattern>/insertadmin</url-pattern>
+</servlet-mapping>
+
+<servlet>
+   <servlet-name>update</servlet-name>
+   <servlet-class>manageracc.Adminupdate</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>update</servlet-name>
+   <url-pattern>/update</url-pattern>
+</servlet-mapping>
+<servlet>
+   <servlet-name>delete</servlet-name>
+   <servlet-class>manageracc.Admindelete</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>delete</servlet-name>
+   <url-pattern>/delete</url-pattern>
+</servlet-mapping>
+         
+ </web-app>

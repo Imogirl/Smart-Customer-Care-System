@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+/* Full-page setup */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #2c3e50, #4ca1af);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+/* Confirm box styling */
+.confirm-box {
+    background: rgba(255, 69, 58, 0.15);
+    border: 2px solid rgba(255, 69, 58, 0.4);
+    border-radius: 16px;
+    padding: 40px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(255, 0, 0, 0.3);
+    backdrop-filter: blur(12px);
+}
+
+.confirm-box h2 {
+    color: #ff4b5c;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.confirm-box p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.btn {
+    padding: 10px 22px;
+    border: none;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.btn.confirm {
+    background: #ff4b5c;
+    color: white;
+}
+
+.btn.confirm:hover {
+    background: #e53946;
+}
+
+.btn.cancel {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.btn.cancel:hover {
+    background: rgba(255,255,255,0.1);
+}
