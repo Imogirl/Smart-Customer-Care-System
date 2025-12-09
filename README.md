@@ -336,7 +336,7 @@ git push origin feature/AmazingFeature
 
 <br/>
 
-**Made with** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="15" /> **by** [Your Name](https://github.com/yourusername)
+**Made with** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="15" /> **by** [Imasha Dulshini](https://github.com/imogirl)
 
 <br/>
 
