@@ -69,7 +69,6 @@
 <br/>
     <img src = "https://github.com/Imogirl/Smart-Customer-Care-System/blob/main/Manage%20Announcement.png">
 <br/>
-<i>Showcase your beautiful animated UI</i>
 </td>
 </tr>
 </table>
