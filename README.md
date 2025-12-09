@@ -67,7 +67,6 @@
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br/>
-<b>🎨 Add Your Dashboard GIF/Screenshot Here</b>
     <img src = "https://github.com/Imogirl/Smart-Customer-Care-System/blob/main/Manage%20Announcement.png">
 <br/>
 <i>Showcase your beautiful animated UI</i>
